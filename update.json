@@ -1,6 +1,6 @@
 {
-  "version": "2.1.1",
-  "download_url": "https://github.com/awolf08/InboxManager-Releases/releases/download/v2.1.1/InboxManager.dmg",
-  "release_url": "https://github.com/awolf08/InboxManager-Releases/releases/tag/v2.1.1",
-  "message": "Standalone improvements, lighter processing responses, and safer report loading."
+  "version": "2.1.2",
+  "download_url": "https://github.com/awolf08/InboxManager-Releases/releases/download/v2.1.2/InboxManager-for-x86_64.dmg",
+  "release_url": "https://github.com/awolf08/InboxManager-Releases/releases/tag/v2.1.2",
+  "message": "Fixes update checks on macOS by using the bundled certificate store."
 }
